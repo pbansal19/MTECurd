@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTECurd", "MTECurd\MTECurd.csproj", "{AF444500-89E2-4B6F-956E-5E1864EED36A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF444500-89E2-4B6F-956E-5E1864EED36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF444500-89E2-4B6F-956E-5E1864EED36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF444500-89E2-4B6F-956E-5E1864EED36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF444500-89E2-4B6F-956E-5E1864EED36A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B33DA3EF-BA26-4C2C-96A0-2A68C9606D1C}
+	EndGlobalSection
+EndGlobal
